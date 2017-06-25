@@ -15,3 +15,7 @@
 
   install [pgadmin client](https://www.postgresql.org/ftp/pgadmin/pgadmin3/v1.22.2/osx/) to manage db
   
+### Mauals
+
+https://www.postgresql.org/docs/9.6/static/index.html
+  
